@@ -39,6 +39,3 @@ Passo 1 Finalizado.
 ___
 
 Passo 2 - Criação de Banco + ORM; Entidades-mãe; Autenticação.
-
-
-
